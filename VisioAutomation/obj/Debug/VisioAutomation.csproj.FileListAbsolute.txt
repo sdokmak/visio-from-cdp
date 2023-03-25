@@ -1,0 +1,108 @@
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx\VisioAutomation\bin\Debug\VisioAutomation.exe.config
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx\VisioAutomation\bin\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx\VisioAutomation\bin\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx\VisioAutomation\obj\Debug\VisioAutomation.csprojAssemblyReference.cache
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx\VisioAutomation\obj\Debug\VisioAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx\VisioAutomation\obj\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx\VisioAutomation\obj\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-automated\fail vsdx\vsdx\VisioAutomation\bin\Debug\VisioAutomation.exe.config
+C:\Users\Saber\Documents\workspace\visio-automated\fail vsdx\vsdx\VisioAutomation\bin\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-automated\fail vsdx\vsdx\VisioAutomation\bin\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-automated\fail vsdx\vsdx\VisioAutomation\obj\Debug\VisioAutomation.csprojAssemblyReference.cache
+C:\Users\Saber\Documents\workspace\visio-automated\fail vsdx\vsdx\VisioAutomation\obj\Debug\VisioAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Saber\Documents\workspace\visio-automated\fail vsdx\vsdx\VisioAutomation\obj\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-automated\fail vsdx\vsdx\VisioAutomation\obj\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx - wtemplate\VisioAutomation\bin\Debug\VisioAutomation.exe.config
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx - wtemplate\VisioAutomation\bin\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx - wtemplate\VisioAutomation\bin\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx - wtemplate\VisioAutomation\obj\Debug\VisioAutomation.csprojAssemblyReference.cache
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx - wtemplate\VisioAutomation\obj\Debug\VisioAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx - wtemplate\VisioAutomation\obj\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-automated\vsdx - wtemplate\VisioAutomation\obj\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe.config
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csprojAssemblyReference.cache
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe.manifest
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.application
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.exe.manifest
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.application
+C:\Users\Saber\Documents\workspace\visio-automated\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csproj.ResolveComReference.cache
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe.config
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe.manifest
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.application
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.pdb
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csprojAssemblyReference.cache
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csproj.CoreCompileInputs.cache
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.exe.manifest
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.application
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.exe
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.pdb
+C:\Users\saber.dokmak\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csproj.ResolveComReference.cache
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe.config
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe.manifest
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.application
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csprojAssemblyReference.cache
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csproj.ResolveComReference.cache
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.exe.manifest
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.application
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.exe
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.pdb
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Buffers.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Memory.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Text.Json.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.ValueTuple.dll
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Buffers.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Memory.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Text.Json.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\bin\Debug\System.ValueTuple.xml
+C:\Users\Saber\Documents\workspace\visio-from-template\VisioAutomation\obj\Debug\VisioAutomation.csproj.CopyComplete
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\VisioAutomation.exe.config
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\VisioAutomation.exe.manifest
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\VisioAutomation.application
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\VisioAutomation.exe
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\VisioAutomation.pdb
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Buffers.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Memory.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Numerics.Vectors.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Text.Encodings.Web.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Text.Json.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.ValueTuple.dll
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Buffers.xml
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Memory.xml
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Numerics.Vectors.xml
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Text.Encodings.Web.xml
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Text.Json.xml
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\workspace\visio-from-cdp\VisioAutomation\bin\Debug\System.ValueTuple.xml
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.csproj.AssemblyReference.cache
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.csproj.SuggestedBindingRedirects.cache
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.csproj.ResolveComReference.cache
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.csproj.CoreCompileInputs.cache
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.exe.manifest
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.application
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.csproj.CopyComplete
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.exe
+D:\workspace\visio-from-cdp\VisioAutomation\obj\Debug\VisioAutomation.pdb
